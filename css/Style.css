@@ -1,0 +1,33 @@
+form{
+    background-color: rgb(147, 189, 245);
+    border-radius: 5px;
+    font-size: 15px;
+    width:  200px;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+label{
+    display: block;
+}
+
+input{
+    width: 185px;
+    border-radius: 5px;
+}
+
+.topo{
+    background-color:rgba(147, 189, 245);
+    font-size: 12px;
+    border-radius: 5px;
+    width: 220px;  
+}
+
+.botao{
+    background-color: rgb(147, 189, 245);
+    width: 192px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+}
